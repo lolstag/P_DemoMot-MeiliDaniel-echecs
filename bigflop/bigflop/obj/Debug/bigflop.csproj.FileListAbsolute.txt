@@ -1,0 +1,14 @@
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\bin\Debug\bigflop.exe.config
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\bin\Debug\bigflop.exe
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\bin\Debug\bigflop.pdb
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.csproj.AssemblyReference.cache
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.Form1.resources
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.Properties.Resources.resources
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.csproj.GenerateResource.cache
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.csproj.CoreCompileInputs.cache
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.exe
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.pdb
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.GameForm.resources
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\obj\Debug\bigflop.Regle.resources
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\bin\Debug\images\white_pawn.png
+C:\Users\pl55ydc\Desktop\Projet DémoMot - échecs Code\bigflop\bigflop\bin\Debug\images\Background.png
